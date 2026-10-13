@@ -14,9 +14,22 @@ The full suite for **My Time at Sandrock**: teleport to your quest objective or 
 - The item, place, quest and NPC lists load instantly from bundled data, even before the game is running; live values come from the running game.
 
 ## Install
-**Easy (recommended):** download **`Sandrock-Companion-1.2.0-setup.exe`** from the [latest release](../../releases/latest), run it, and on the **Setup** tab click **Install / Update**. It finds the game and installs BepInEx and the plugin. Then launch My Time at Sandrock in single-player; the app connects on its own.
 
-**Manual:** download `sandrock-companion-v1.2.0.zip` from the [latest release](../../releases/latest), install **BepInEx 5.4.x (x64)** ([for My Time at Sandrock](https://www.nexusmods.com/mytimeatsandrock/mods/129)), extract the `SandrockTrainer` folder into `<game>\BepInEx\plugins\`, launch single-player, and open **http://localhost:17600** in any browser.
+### One click: the desktop app
+Download **`Sandrock-Companion-1.2.0-setup.exe`** from the [latest release](../../releases/latest), run it, and on the **Setup** tab click **Install / Update**. It finds the game and installs BepInEx and the plugin. Then launch My Time at Sandrock in single-player; the app connects on its own.
+
+### Manual: copy the files yourself
+Download **`sandrock-companion-v1.2.0.zip`** from the [latest release](../../releases/latest) or the [Nexus Files tab](https://www.nexusmods.com/mytimeatsandrock/mods/173?tab=files). It is laid out like the game folder: extract all of it into the folder that holds `Sandrock.exe` (in Steam: right-click My Time at Sandrock → Manage → Browse local files).
+
+| In the zip | Goes to | What it is |
+|---|---|---|
+| `winhttp.dll`, `doorstop_config.ini`, `.doorstop_version`, `changelog.txt` | `<game>\`, next to `Sandrock.exe` | BepInEx 5.4.23.5 loader |
+| `BepInEx\core\` (all files) | `<game>\BepInEx\core\` | BepInEx itself |
+| `BepInEx\plugins\SandrockTrainer\SandrockTrainer.dll` | `<game>\BepInEx\plugins\SandrockTrainer\` | the Sandrock Companion plugin |
+| `BepInEx\plugins\SandrockTrainer\panel.html` | same folder | the browser control panel |
+| `BepInEx\plugins\SandrockTrainer\locations.json` | same folder | named places for the Teleport tab |
+
+Already have BepInEx 5.4.x (x64)? Copy only `BepInEx\plugins\SandrockTrainer\`. Then launch single-player and open **http://localhost:17600** in any browser, or run the desktop app.
 
 **Updating from 1.1.0 or earlier:** the plugin folder keeps its name, so Install / Update (or the zip) replaces the plugin in place. The desktop app installs under its new name, so Windows may still list the old app under Settings → Apps; uninstall it there.
 
