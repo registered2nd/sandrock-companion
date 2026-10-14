@@ -25,13 +25,13 @@ Also on Nexus Mods: https://www.nexusmods.com/mytimeatsandrock/mods/173
 - **Chests**: every chest by scene, opened or not, with what it can hold; the game's own chest icons on the map with one switch.
 - **F8** goes to the tracked quest's objective.
 - Every jump moves you the way the game does (the bus stop's fade, a door's scene load), lands on the ground, and never into a ruin or a locked building. **Back** undoes the last one.
-- **Languages**: English and Chinese, following your game's language setting, including a switch made mid-game. Names of people, places, items and quests come from the game's own text, achievements from Steam's.
+- **Languages**: Follows your game's language setting, including a switch made mid-game. The Companion's own words are in English, Chinese, French and German; a game set to any other language gets English. Names of people, places, items and quests come from the game's own text, achievements from Steam's.
 
 ## Install
 
-**Installer**: download **`Sandrock-Companion-2.0.0-setup.exe`** from the [latest release](../../releases/latest) and run it. On its **Setup** tab, click **Install / Update**: it finds the game through Steam (or paste the game folder) and installs BepInEx and the plugin. Then start My Time at Sandrock in single-player and press **F6**; the app shows the control panel while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`Sandrock-Companion-2.1.0-setup.exe`** from the [latest release](../../releases/latest) and run it. On its **Setup** tab, click **Install / Update**: it finds the game through Steam (or paste the game folder) and installs BepInEx and the plugin. Then start My Time at Sandrock in single-player and press **F6**; the app shows the control panel while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`sandrock-companion-v2.0.0.zip`** from the same release or the [Nexus Files tab](https://www.nexusmods.com/mytimeatsandrock/mods/173?tab=files). It is laid out like the game folder: extract all of it into the folder that holds `Sandrock.exe` (in Steam: right-click My Time at Sandrock → Manage → Browse local files).
+**Manual**: download **`sandrock-companion-v2.1.0.zip`** from the same release or the [Nexus Files tab](https://www.nexusmods.com/mytimeatsandrock/mods/173?tab=files). It is laid out like the game folder: extract all of it into the folder that holds `Sandrock.exe` (in Steam: right-click My Time at Sandrock → Manage → Browse local files).
 
 | In the zip | Goes to | What it is |
 |---|---|---|
