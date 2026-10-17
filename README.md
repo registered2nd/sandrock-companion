@@ -1,6 +1,15 @@
 # Sandrock Companion
 
-The full suite for **My Time at Sandrock**, in one window inside the game (**F6**) or a control panel on a second screen. **Quests**: go straight to your current objective or the person it is handed in to, and skip a step's busywork (the items, the kills, the counts) up to the next conversation. **Items**: give yourself any item at any quality, or go to the shop, gather node, chest or ruin where one can be had. **Achievements**: every Steam achievement with your earned state, progress and the quest that grants it, and unlock any of them. Then your stats, level and money, seven cheat modes, and every person, place and chest. The conversations and their choices stay yours: the mod never picks one.
+The full suite for **My Time at Sandrock**, in one window inside the game (**F6**) or a control panel on a second screen.
+
+- **Quests**: go straight to your current objective or the person it is handed in to, and skip a step's busywork (the items, the kills, the counts) up to the next conversation. The conversations and their choices stay yours.
+- **Items**: give yourself any item at any quality, or go to where one can be had: the shop that sells it, the gather node that drops it, the chest that holds it, the ruin it is dug in, your machine that makes it.
+- **Me**: HP, stamina and endurance, level, Gols and the special currencies.
+- **Cheat modes**: God mode, infinite stamina, infinite endurance, run faster, learn faster, free bus rides, freeze time.
+- **Achievements**: every Steam achievement with your progress and the quest that grants it. Unlock any of them.
+- **People**: everyone in the game, with your relationship; go to them, or raise it by 100 or to the maximum.
+- **Places and chests**: every bus stop, ruin, shop, fishing spot and chest, by the game's own map names; go to any of them.
+- **Misc**: Quick Save any time the game allows, and **F8** jumps to the quest you're tracking.
 
 Also on Nexus Mods: https://www.nexusmods.com/mytimeatsandrock/mods/173
 
@@ -51,8 +60,8 @@ Built and tested on Steam build **18623106**. A game update may need a rebuilt p
 
 ## Also by me
 
-- **KCD Companion** for Kingdom Come: Deliverance: go where the quest points, skip busywork up to the next decision, items, achievements, cheat modes. [GitHub](https://github.com/registered2nd/kcd-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/2406)
-- **KCD2 Companion** for Kingdom Come: Deliverance II: go where the quest points, skip busywork up to the next decision, items, achievements, cheat modes. [GitHub](https://github.com/registered2nd/kcd2-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812)
+- **KCD Companion** for Kingdom Come: Deliverance: the full suite: quests, items, achievements, Henry's stats and money, cheat modes, people, places and chests. [GitHub](https://github.com/registered2nd/kcd-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance/mods/2406)
+- **KCD2 Companion** for Kingdom Come: Deliverance II: the full suite: quests, items, achievements, Henry's stats and money, cheat modes, people, places and chests. [GitHub](https://github.com/registered2nd/kcd2-companion) · [Nexus Mods](https://www.nexusmods.com/kingdomcomedeliverance2/mods/3812)
 
 ## Credits
 
