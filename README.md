@@ -30,7 +30,7 @@ Also on Nexus Mods: https://www.nexusmods.com/mytimeatsandrock/mods/173
 - **Me**: HP, stamina and endurance (refill one or all), level with XP added through the game, Gols up to +100,000 at a time, and the special currencies.
 - **Cheat modes**: God mode, Infinite stamina, Infinite endurance, Run faster (×1.5 to ×4), Learn three times as fast, Free bus rides, Freeze time. Each one on or off; they stay on across restarts. **Quick Save** at any time the game allows.
 - **People**: everyone in the game by the scene they are in, nearest first, with relationship, **Go**, +100 and Max; views for within 50 m, shopkeepers and romanceable.
-- **Places**: bus stops, ruins, buildings, shops, workshop, fishing spots and doors, by the names the game's own map gives them; **Mark** and **Back**; Go to any X/Z.
+- **Places**: bus stops, ruins, buildings, shops, workshop, fishing spots and doors, by the names the game's own map gives them; **Mark** and **Back**; type an X and Z and go there (Enter works), with where you stand shown beside them.
 - **Chests**: every chest by scene, opened or not, with what it can hold; the game's own chest icons on the map with one switch.
 - **F8** goes to the tracked quest's objective.
 - Every jump moves you the way the game does (the bus stop's fade, a door's scene load), lands on the ground, and never into a ruin or a locked building. **Back** undoes the last one.
@@ -38,9 +38,9 @@ Also on Nexus Mods: https://www.nexusmods.com/mytimeatsandrock/mods/173
 
 ## Install
 
-**Installer**: download **`Sandrock-Companion-2.3.0-setup.exe`** from the [latest release](../../releases/latest) and run it. On its **Setup** tab, click **Install / Update**: it finds the game through Steam (or paste the game folder) and installs BepInEx and the plugin. Then start My Time at Sandrock in single-player and press **F6**; the app shows the control panel while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
+**Installer**: download **`Sandrock-Companion-2.4.0-setup.exe`** from the [latest release](../../releases/latest) and run it. On its **Setup** tab, click **Install / Update**: it finds the game through Steam (or paste the game folder) and installs BepInEx and the plugin. Then start My Time at Sandrock in single-player and press **F6**; the app shows the control panel while the game runs. Windows may warn about an unknown publisher: More info > Run anyway.
 
-**Manual**: download **`sandrock-companion-v2.3.0.zip`** from the same release or the [Nexus Files tab](https://www.nexusmods.com/mytimeatsandrock/mods/173?tab=files). It is laid out like the game folder: extract all of it into the folder that holds `Sandrock.exe` (in Steam: right-click My Time at Sandrock → Manage → Browse local files).
+**Manual**: download **`sandrock-companion-v2.4.0.zip`** from the same release or the [Nexus Files tab](https://www.nexusmods.com/mytimeatsandrock/mods/173?tab=files). It is laid out like the game folder: extract all of it into the folder that holds `Sandrock.exe` (in Steam: right-click My Time at Sandrock → Manage → Browse local files).
 
 | In the zip | Goes to | What it is |
 |---|---|---|
